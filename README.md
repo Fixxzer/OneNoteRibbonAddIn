@@ -21,6 +21,7 @@ Tools required:
 Difficulty: This involves a good understanding of Visual Studio, OneNote, and experience in C#
 
 Tutorial:
+	
 	1. Create a new project of type Class Library
 	
 	2. Give it a name you want to use for your Add-In, we will use "OneNoteRibbonAddIn"
