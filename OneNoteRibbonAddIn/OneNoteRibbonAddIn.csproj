@@ -71,6 +71,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\customUI.xml" />
     <Content Include="Resources\showform.png" />
   </ItemGroup>
