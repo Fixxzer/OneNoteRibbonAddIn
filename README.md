@@ -4,21 +4,26 @@ Develop a OneNote 2013 add-in application using C# in Visual Studio 2013
 Wednesday, January 14, 2015
 10:04 AM
 
-References:
-	• https://support.microsoft.com/kb/2555352/en-us?wa=wsignin1.0
-	• https://social.msdn.microsoft.com/Forums/office/en-US/3570a4cf-aec1-4ff7-8547-e40bf8816dd0/onenote-programming?forum=appsforoffice
-	• https://code.msdn.microsoft.com/office/CSOneNoteRibbonAddIn-c3547362
-	• http://msdn.microsoft.com/en-us/magazine/ff796230.aspx
-	• https://github.com/Fixxzer/OneNoteRibbonAddIn
-
+References:<br/>
+<ul>
+	• https://support.microsoft.com/kb/2555352/en-us?wa=wsignin1.0<br/>
+	• https://social.msdn.microsoft.com/Forums/office/en-US/3570a4cf-aec1-4ff7-8547-e40bf8816dd0/onenote-programming?forum=appsforoffice<br/>
+	• https://code.msdn.microsoft.com/office/CSOneNoteRibbonAddIn-c3547362<br/>
+	• http://msdn.microsoft.com/en-us/magazine/ff796230.aspx<br/>
+	• https://github.com/Fixxzer/OneNoteRibbonAddIn<br/>
+</ul>
 This will demonstrate how to create a OneNote 2013 COM add-in, that implements the IRibbonExtensibility and IDTExtensibility2 interfaces, which will allow you to customize the ribbon of Microsoft OneNote 2013.
 
 Tools required:
-	• Visual Studio 2013
+<ul>
+	• Visual Studio 2013<br/>
 	• Visual Studio Installer Projects (Available through NuGet)
+	<ul>
 		○ In VS: Tools -> Extensions and Updates… -> Search for "Visual Studio Installer Projects"
+	</ul>
+</ul>
 
-Difficulty: This involves a good understanding of Visual Studio, OneNote, and experience in C#
+Difficulty: This involves a good understanding of Visual Studio, OneNote, and C#.
 
 Tutorial:
 	
