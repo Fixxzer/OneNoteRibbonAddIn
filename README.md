@@ -4,7 +4,7 @@ Develop a OneNote 2013 add-in application using C# in Visual Studio 2013
 Wednesday, January 14, 2015
 10:04 AM
 
-References:<br/>
+References:
 <ul>
 	• https://support.microsoft.com/kb/2555352/en-us?wa=wsignin1.0<br/>
 	• https://social.msdn.microsoft.com/Forums/office/en-US/3570a4cf-aec1-4ff7-8547-e40bf8816dd0/onenote-programming?forum=appsforoffice<br/>
